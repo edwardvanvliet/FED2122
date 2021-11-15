@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Edward van Vliet (vervangen door jouw naam)
+Edward van Vliet
 
 #### Je startniveau:
 Blauw (kies uit zwart, rood óf blauw)
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+Surface plane (kies uit responsive óf surface plane)
  
 </details>
 
