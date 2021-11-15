@@ -36,7 +36,7 @@ Surface plane (kies uit responsive óf surface plane)
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-https://www.nissan.nl/
+https://www.virgin.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
