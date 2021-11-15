@@ -36,7 +36,7 @@ Surface plane (kies uit responsive óf surface plane)
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+https://www.nissan.nl/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
