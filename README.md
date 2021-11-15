@@ -39,11 +39,11 @@ Surface plane (kies uit responsive óf surface plane)
 https://www.virgin.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
+Homepage Virgin  
 <img src="images/homepage_virgin.png" width="375px" alt="Homepage Virgin">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
+About Virgin - Our Story  
 <img src="images/ourstory_virgin.png" width="375px" alt="Over ons pagina Virgin">
  
 </details>
