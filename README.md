@@ -52,7 +52,7 @@ About Virgin - Our Story
 
 ## Breakdownschets (week 1)
 
-<details open>
+<details>
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
