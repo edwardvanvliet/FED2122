@@ -40,11 +40,11 @@ https://www.virgin.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage Virgin  
-<img src="images/homepage_virgin.png" width="375px" alt="Homepage Virgin">
+<img src="images/homepage_virgin.jpg" width="375px" alt="Homepage Virgin">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 About Virgin - Our Story  
-<img src="images/ourstory_virgin.png" width="375px" alt="Over ons pagina Virgin">
+<img src="images/ourstory_aboutvirgin.jpg" width="375px" alt="Over ons pagina Virgin">
  
 </details>
 
