@@ -55,7 +55,7 @@ About Virgin - Our Story
 <details>
 <summary>uitwerken na afloop 2e werkgroep</summary>
  
-### Pagina 1
+### Pagina 1: Homepagina
  
 ### de hele pagina: 
 <img src="images/breakdownschets_homepage_virgin.png" width="375px" alt="breakdown van de hele homepagina">
@@ -66,10 +66,10 @@ About Virgin - Our Story
 ### wellicht nog een dynamisch deel (bijv filter): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
-### Pagina 2 
+### Pagina 2: About Us - Our Story
  
 ### de hele pagina: 
-<img src="images/breakdownschets_homepage_virgin.png" width="375px" alt="breakdown van de hele homepagina">
+<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
