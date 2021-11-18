@@ -36,11 +36,7 @@ Surface plane (kies uit responsive óf surface plane)
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-https://www.virgin.com/ 
-
-& 
- 
-https://www.virgin.com/about-virgin/our-story)
+https://www.virgin.com/  &  https://www.virgin.com/about-virgin/our-story
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage Virgin  
