@@ -32,7 +32,7 @@ Surface plane (kies uit responsive óf surface plane)
 
 ## Je website
 
-<details open>
+<details>
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
