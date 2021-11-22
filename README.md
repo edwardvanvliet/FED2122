@@ -62,24 +62,24 @@ About Virgin - Our Story
 ### Pagina 1: Homepagina
  
 ### de hele pagina: 
-<img src="images/breakdownschets_homepage_virgin.png" width="375px" alt="breakdown van de hele homepagina">
+<img src="images/bdschets1_homepagina_virgin.png" width="375px" alt="breakdown van de hele homepagina">
 
 ### dynamisch deel (bijv menu): 
 <img src="images/hoofdmenu_virgin.png" width="375px" alt="breakdown van een dynamisch deel">
 
 ### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+# -
 
 ### Pagina 2: About Us - Our Story
  
 ### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+<img src="images/bdschets2_ourstory_virgin.png" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
-<img src="images/hoofdmenu_virgin.png" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/hoofdmenu2_virgin.png" width="375px" alt="breakdown van een dynamisch deel">
 
 ### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+# -
  
 </details>
 
