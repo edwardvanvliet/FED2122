@@ -99,11 +99,11 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Cera           | Noor               | Xavier           | Edward           |
-| ---            | ---                | ---              | ---              |
-| Hamburgermenu  | (Foto)carousel     | Icoontjes        | Ook een (lange)  |
-| ...            | ...                | toevoegen        | fotocarousel     |
-| ...            | ...                | ...              | ...              |
+| Cera           | Noor               | Xavier                | Edward                       |
+| ---            | ---                | ---                   | ---                          |
+| Hamburgermenu  | (Foto)carousel     | Icoontjes toevoegen   | Ook een (lange) fotocarousel |
+| ...            | ...                | ...                   | ...                          |
+| ...            | ...                | ...                   | ...                          |
 
 
 ### Verslag van meeting
