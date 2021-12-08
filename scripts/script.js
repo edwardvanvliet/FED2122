@@ -1,18 +1,21 @@
 // JavaScript Document
-var hamMenu = document.querySelector("nav ul");
-
-var hamButton = document.querySelector(".icon");
+var openMenu = document.querySelector("nav ul");
+var closeMenu = document.querySelector("nav ul");
+var hamButton = document.querySelector("nav button");
 
 
 
 // Klik op menu Button
 
-hamButton.addEventListener("click", toggleHamburgerMenu);
+hamButton.addEventListener("click", toggleMenu);
+openMenu.addEventListener ("click", toggleMenu);
+closeMenu.addEventListener ("click", toggleMenu);
 
 
 
-function toggleHamburgerMenu(){
+function toggleMenu(){
 
-    hamMenu.classList.toggle("...");
+    hamMenu.classList.toggle('openMenu');
+    console.log ("test");
 
 }
