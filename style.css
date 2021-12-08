@@ -1,0 +1,126 @@
+/* CSS Document */
+*, *::after, *::before {
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+  background-color: var(--background-color);
+}
+
+/**************/
+/* Font faces */
+/**************/
+@font-face {
+  font-family: Barlow;
+  src: url(../fonts/Barlow/Barlow-Medium.ttf);
+}
+
+/************************************/
+/* Custom Properties - Kleurenpalet */
+/************************************/
+
+:root {
+  --maincolor:red;
+  --secondarycolor:blue;
+  --background-color:#FEF2F2;
+  --nav-color:rgb(81, 123, 150);
+}
+
+/****************************/
+/* Kleurenpalet - DARK Mode */
+/****************************/
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --maincolor:rgb(255, 160, 160);
+    --secondarycolor:rgb(125, 125, 255);
+    --background-color:rgb(100, 0, 100);
+    --nav-color:rgb(65, 65, 65);
+  }
+}
+
+
+/************/
+/* Algemeen */
+/************/
+
+body {
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: normal;
+}
+
+body header img {
+  display: block;
+  margin: 0 auto;
+  width: 65px;
+  height: 65px;
+}
+
+body header nav {
+  background-color: rgb(81, 123, 150);
+  font-size: 18px;
+  width: 100%;
+  top: 60px;
+}
+
+body header nav button {
+  position: sticky;
+  left: 0;
+  width: 30px;
+  height: 30px;
+}
+
+body header nav ul {
+  background-color: rgb(81, 123, 150);
+  justify-content: space-evenly;
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  opacity: 0;
+  transition: all .3s ease-in;
+}
+
+/***************/
+/* Specifieker */
+/***************/
+
+section img:nth-of-type(1) {
+  margin-left: 355px;
+  max-width: 150px;
+  max-height: 150px;
+}
+
+h1 {
+  display: block;
+  position: 0 auto;
+  font-size: 1em;
+  font-family: Arial, sans-serif;
+}
+
+.dot1 {
+  font-weight: bold;
+  color: var(--maincolor);
+}
+
+footer p {
+  width: 100%;
+  font-size: 1em;
+  font-family: Barlow-Medium;
+  text-align: center;
+}
+
+/*******************/
+/* Media enquiries */
+/*******************/
+
+@media screen and (min-width: 375px) {
+  body {
+    background-color: var(--secondarycolor);
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  body {
+    background-color: var(--maincolor);
+  }
+}
