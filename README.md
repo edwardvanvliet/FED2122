@@ -132,11 +132,11 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Cera           | Noor               | Xavier                                        | Edward                |
-| ---            | ---                | ---                                           | ---                   |
-| Scrollbar      | ...                | Achtergrond footer in verschillende kleuren   | Dark mode (toggle)    |
-| ...            | ...                | ...                                           | ...                   |
-| ...            | ...                | ...                                           | ...                   |
+| Cera           | Noor               | Xavier                                        | Edwar          |
+| ---            | ---                | ---                                           | ---            |
+| Scrollbar      | ...                | Achtergrond footer in verschillende kleuren   | Dark mode      |
+| ...            | ...                | ...                                           | ...            |
+| ...            | ...                | ...                                           | ...            |
 
 
 ### Verslag van meeting
