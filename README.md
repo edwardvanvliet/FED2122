@@ -89,7 +89,7 @@ About Virgin - Our Story
 
 ## Voortgang 1 (week 2)
 
-<details open>
+<details>
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
@@ -132,11 +132,11 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Cera           | Noor               | Xavier                                        | Edwar          |
-| ---            | ---                | ---                                           | ---            |
-| Scrollbar      | ...                | Achtergrond footer in verschillende kleuren   | Dark mode      |
-| ...            | ...                | ...                                           | ...            |
-| ...            | ...                | ...                                           | ...            |
+| Cera           | Noor               | Xavier                                        | Edward                  |
+| ---            | ---                | ---                                           | ---                     |
+| Scrollbar      | ...                | Achtergrond footer in verschillende kleuren   | Dark mode toepassen     |
+| ...            | ...                | ...                                           | ...                     |
+| ...            | ...                | ...                                           | ...                     |
 
 
 ### Verslag van meeting
@@ -155,7 +155,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ## Toegankelijkheidstest (week 4)
 
-<details>
+<details open>
 <summary>uitwerken na test in 8e voortgang</summary>
 
 ### Bevindingen
