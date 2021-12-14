@@ -157,7 +157,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ## Toegankelijkheidstest (week 4)
 
 <details open>
-<summary>Afwezig tijdens de les, vanwege een thuisquarantaine. Thuis wel getest met toetsenbord en dark mode (handicap).</summary>
+<summary>Afwezig tijdens de les, vanwege een thuisquarantaine. Thuis wel getest met toetsenbord, screen reader en dark mode (handicap).</summary>
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
