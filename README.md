@@ -192,11 +192,11 @@ Verder begint de CSS erg veel te worden, ziet er nogal rommelig uit, kan wel wat
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Cera                 | Noor                    | Xavier                    | Edward (Afwezig --> Individueel met Yunus)                                            |
-| ---                  | ---                     | ---                       | ---                                                                                   |
-| Ruimte tussen foto's | Formulier positioneren. | Probleem met de footer op | Bij het uitschuiven/klikken op het hamburgermenu wordt niet het hele scherm opgevuld, |
-| gelijk maken.        | ---                     | de 2e pagina, plakt niet. | wordt niet het hele scherm opgevuld, alleen een gedeelte ervan.                       |
-| Code checken.        | Code checken.           | Code checken.             | Code checken of het semantisch goed genest is.                                        |
+| Cera                 | Noor                    | Xavier                    | Edward (Afwezig --> Individueel met Yunus)                  |
+| ---                  | ---                     | ---                       | ---                                                         |
+| Ruimte tussen foto's | Formulier positioneren. | Probleem met de footer op | Bij het uitschuiven/klikken op het hamburgermenu wordt niet |
+| gelijk maken.        | ---                     | de 2e pagina, plakt niet. | het hele scherm opgevuld, alleen een gedeelte ervan.        |
+| Code checken.        | Code checken.           | Code checken.             | Code checken of het semantisch goed genest is.              |
 
 
 ### Verslag van meeting
