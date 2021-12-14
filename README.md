@@ -94,6 +94,7 @@ About Virgin - Our Story
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ 
 Het plaatsen en positioneren van de content voor de 1e pagina ging over het algemeen wel goed. Ik wilde alleen nog weten hoe je een (foto)carousel kan maken.
 
 
@@ -127,6 +128,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ 
 De content is grotendeels geplaatst in de HTML, begint er een beetje op te lijken. Wel nog veel te doen in de styling (CSS). Ik moet natuurlijk ook nog beginnen aan mijn 2e pagina, al zal veel code waarschijnlijk op de 1e pagina lijken.
 
 ### Agenda voor meeting
@@ -184,6 +186,7 @@ Hier moet dus in de CSS qua kleurgebruik (van de shadows en/of borders bijv.) oo
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ 
 Het hamburgermenuutje schuift wel uit, maar vult niet het gehele scherm op (wat wel moet).
 Verder begint de CSS erg veel te worden, ziet er nogal rommelig uit, kan wel wat ordening en netheid gebruiken.
 
