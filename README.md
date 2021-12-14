@@ -123,7 +123,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ## Voortgang 2 (week 3)
 
-<details open>
+<details>
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
@@ -191,6 +191,7 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
  
 Het hamburgermenuutje schuift wel uit, maar vult niet het gehele scherm op (wat wel moet).
 Verder begint de CSS erg veel te worden, ziet er nogal rommelig uit, kan wel wat ordening en netheid gebruiken.
+Qua CSS / vormgeving loop ik wel wat achter voel ik, een beetje te laat gestart met mijn eigen website.
 
 ### Agenda voor meeting
 samen met je groepje opstellen
