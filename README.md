@@ -19,7 +19,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 Edward van Vliet
 
 #### Je startniveau:
-Blauw (kies uit zwart, rood óf blauw)
+Blauw
 
 #### Je focus:
 Surface plane (kies uit responsive óf surface plane)
@@ -94,6 +94,7 @@ About Virgin - Our Story
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Het plaatsen en positioneren van de content voor de 1e pagina ging over het algemeen wel goed. Ik wilde alleen nog weten hoe je een (foto)carousel kan maken.
 
 
 ### Agenda voor meeting
@@ -109,10 +110,9 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Niet te veel divs en/of classes gebruiken, weghalen
+- Een H1 ontbrak nog in de HTML, ik heb van één van de H2's maar een H1 gemaakt.
+- Er stond ook een beetje code uit mijn body, wat er juist wel in hoort (verkeerd genest), meteen aangepast.
 
 </details>
 
@@ -127,7 +127,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+De content is grotendeels geplaatst in de HTML, begint er een beetje op te lijken. Wel nog veel te doen in de styling (CSS). Ik moet natuurlijk ook nog beginnen aan mijn 2e pagina, al zal veel code waarschijnlijk op de 1e pagina lijken.
 
 ### Agenda voor meeting
 samen met je groepje opstellen
@@ -142,10 +142,9 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- De dark mode was (onverwacht) best simpel om te maken. Maar omdat ik mijn CSS nog niet helemaal af heb, zal ik dit later toepassen (ook de kleuren bepalen).
+- Let op hoe je jouw sections indeelt, waar begint en waar stopt een section.
+- Het hamburger menuutje werkt nog niet goed, kijk hoe je dit op kan lossen.
 
 </details>
 
