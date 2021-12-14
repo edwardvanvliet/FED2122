@@ -160,15 +160,13 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
-#### Titel eerste bevinding
-Dark mode
+#### Dark mode (Handicap - Zichtbaarheid)
 
 De gekozen kleuren voor de knoppen en typografie (in dark mode) lijken te veel op de achtergrondkleur, slecht contrast (niet goed leesbaar).
 Ik kan hiervoor dus beter andere kleuren gebruiken, die wel goed te zien zijn / leesbaar zijn.
 
 
-#### Titel tweede bevinding. 
-Besturing met toetsenbord
+#### Besturing met toetsenbord
 
 De states (met name de active en focus state) zijn qua contrast in dark mode slecht te zien, ook een slecht contrast.
 Hier moet dus in de CSS qua kleurgebruik (van de shadows en/of borders bijv.) ook nog aan gesleuteld worden.
@@ -192,11 +190,11 @@ Verder begint de CSS erg veel te worden, ziet er nogal rommelig uit, kan wel wat
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Cera                 | Noor                    | Xavier                    | Edward (Afwezig --> Individueel met Yunus)                  |
-| ---                  | ---                     | ---                       | ---                                                         |
-| Ruimte tussen foto's | Formulier positioneren. | Probleem met de footer op | Bij het uitschuiven/klikken op het hamburgermenu wordt niet |
-| gelijk maken.        | ---                     | de 2e pagina, plakt niet. | het hele scherm opgevuld, alleen een gedeelte ervan.        |
-| Code checken.        | Code checken.           | Code checken.             | Code checken of het semantisch goed genest is.              |
+| Cera                     | Noor                       | Xavier                    | Edward (Afwezig --> Individueel met Yunus)                  |
+| ---                      | ---                        | ---                       | ---                                                         |
+| Ruimte tussen foto's     | Formulier positioneren.    | Probleem met de footer op | Bij het uitschuiven/klikken op het hamburgermenu wordt      |
+| gelijk maken.            | ---                        | de 2e pagina, plakt niet. | niet het hele scherm opgevuld, alleen een gedeelte ervan.   |
+| Code checken.            | Code checken.              | Code checken.             | Code checken of het semantisch goed genest is.              |
 
 
 ### Verslag van meeting
