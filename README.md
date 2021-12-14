@@ -225,6 +225,8 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+De vormgeving heb ik uiteindelijk niet helemaal af gekregen (ook niet helemaal zoals gewild). Achteraf gezien had ik eerder moeten beginnen met mijn websites, zodat ik ook genoeg tijd overhoud voor meerdere interactieve micro-interacties (met JS bijv.) en dat ik dan ook de vormgeving tot in detail kan proberen na te maken. Het tekort aan tijd komt mede door ongelukkige omstandigheden in de laatste weken en verder heb ik het natuurlijk ook deels aan mezelf te wijten dat ik te laat was gestart met mijn eigen website(s).
+ 
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
