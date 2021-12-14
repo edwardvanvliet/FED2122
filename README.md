@@ -132,11 +132,11 @@ De content is grotendeels geplaatst in de HTML, begint er een beetje op te lijke
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Cera           | Noor               | Xavier                                        | Edward                  |
-| ---            | ---                | ---                                           | ---                     |
-| Scrollbar      | ...                | Achtergrond footer in verschillende kleuren   | Dark mode toepassen     |
-| ...            | ...                | ...                                           | ...                     |
-| ...            | ...                | ...                                           | ...                     |
+| Cera           | Noor                                | Xavier                                        | Edward                  |
+| ---            | ---                                 | ---                                           | ---                     |
+| Scrollbar      | Vragen over het (on)zichtbaar maken | Achtergrond footer in verschillende kleuren   | Dark mode toepassen     |
+| ...            | van de H1                           | ...                                           | ...                     |
+| ...            | ...                                 | ...                                           | ...                     |
 
 
 ### Verslag van meeting
@@ -155,33 +155,23 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ## Toegankelijkheidstest (week 4)
 
 <details open>
-<summary>uitwerken na test in 8e voortgang</summary>
+<summary>Afwezig tijdens de les, vanwege een thuisquarantaine. Thuis wel getest met toetsenbord en dark mode (handicap).</summary>
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
 #### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+Dark mode
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+De gekozen kleuren voor de knoppen en typografie (in dark mode) lijken te veel op de achtergrondkleur, slecht contrast (niet goed leesbaar).
+Ik kan hiervoor dus beter andere kleuren gebruiken, die wel goed te zien zijn / leesbaar zijn.
 
 
 #### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+Besturing met toetsenbord
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+De states (met name de active en focus state) zijn qua contrast in dark mode slecht te zien, ook een slecht contrast.
+Hier moet dus in de CSS qua kleurgebruik (van de shadows en/of borders bijv.) ook nog aan gesleuteld worden.
 
 </details>
 
@@ -196,25 +186,25 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Het hamburgermenuutje schuift wel uit, maar vult niet het gehele scherm op (wat wel moet).
+Verder begint de CSS erg veel te worden, ziet er nogal rommelig uit, kan wel wat ordening en netheid gebruiken.
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Cera                 | Noor                    | Xavier                    | Edward (Afwezig --> Individueel met Yunus)                                            |
+| ---                  | ---                     | ---                       | ---                                                                                   |
+| Ruimte tussen foto's | Formulier positioneren. | Probleem met de footer op | Bij het uitschuiven/klikken op het hamburgermenu wordt niet het hele scherm opgevuld, |
+| gelijk maken.        | ---                     | de 2e pagina, plakt niet. | wordt niet het hele scherm opgevuld, alleen een gedeelte ervan.                       |
+| Code checken.        | Code checken.           | Code checken.             | Code checken of het semantisch goed genest is.                                        |
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- De CSS voor na het klikken op het hamburgermenu aanpassen, zodat hij het hele scherm opvult.
+- Let op de netheid van mijn CSS, orden het netjes.
+- Ook soms letten op de inspringing van mijn code.
 
 </details>
 
@@ -247,8 +237,11 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. Dropdown menu's: https://css-tricks.com/solved-with-css-dropdown-menus/ (ook een beetje gekeken naar de code van mijn Internetstandaarden website van jaar 1);
+2. Licht en donker: https://codepen.io/shooft/pen/NWaqZOB;
+3. Dark mode: https://stuffandnonsense.co.uk/blog/redesigning-your-product-and-website-for-dark-mode;
+4. Flexbox: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox & https://css-tricks.com/snippets/css/a-guide-to-flexbox/;
+5. CSS Gradient op de achtergrond: https://codepen.io/shooft/pen/yLzNmoN;
+6. CSS Grid: https://css-tricks.com/snippets/css/complete-guide-grid/.
 
 </details>
