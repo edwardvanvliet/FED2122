@@ -191,7 +191,8 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
  
 Het hamburgermenuutje schuift wel uit, maar vult niet het gehele scherm op (wat wel moet).
 Verder begint de CSS erg veel te worden, ziet er nogal rommelig uit, kan wel wat ordening en netheid gebruiken.
-Qua CSS / vormgeving en ook kijkend naar mijn 2e website, loop ik wel wat achter voel ik, een beetje te laat gestart met mijn eigen website(s).
+Qua CSS / vormgeving en ook met een schuine blik naar mijn 2e website, loop ik wel wat achter voel ik.
+Dit komt mede door ongelukkige omstandigheden in de laatste weken en zelf denk ik ook te laat gestart met mijn eigen website(s).
 
 ### Agenda voor meeting
 samen met je groepje opstellen
