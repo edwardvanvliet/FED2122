@@ -23,6 +23,7 @@
   --secondarycolor:blue;
   --background-color:#FEF2F2;
   --nav-color:rgb(81, 123, 150);
+  --font-color: black;
 }
 
 /****************************/
@@ -35,6 +36,7 @@
     --secondarycolor:rgb(125, 125, 255);
     --background-color:rgb(100, 0, 100);
     --nav-color:rgb(65, 65, 65);
+    --font-color: white;
   }
 }
 
@@ -54,6 +56,10 @@ body header img {
   margin: 0 auto;
   width: 65px;
   height: 65px;
+}
+
+#top{
+  position: 50%;
 }
 
 body header nav {
